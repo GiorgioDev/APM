@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Credits
 Based on the course of https://github.com/DeborahK/
+
 https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents
